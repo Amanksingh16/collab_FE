@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Amanksingh16/collab_FE/static/css/main.bb188fb2.chunk.css",
+    "main.js": "/Amanksingh16/collab_FE/static/js/main.cce65034.chunk.js",
+    "main.js.map": "/Amanksingh16/collab_FE/static/js/main.cce65034.chunk.js.map",
+    "runtime-main.js": "/Amanksingh16/collab_FE/static/js/runtime-main.4f9aa1a1.js",
+    "runtime-main.js.map": "/Amanksingh16/collab_FE/static/js/runtime-main.4f9aa1a1.js.map",
+    "static/js/2.6a7970c9.chunk.js": "/Amanksingh16/collab_FE/static/js/2.6a7970c9.chunk.js",
+    "static/js/2.6a7970c9.chunk.js.map": "/Amanksingh16/collab_FE/static/js/2.6a7970c9.chunk.js.map",
+    "index.html": "/Amanksingh16/collab_FE/index.html",
+    "precache-manifest.d50a866bf7fb00b20d42fc4c82ceeea6.js": "/Amanksingh16/collab_FE/precache-manifest.d50a866bf7fb00b20d42fc4c82ceeea6.js",
+    "service-worker.js": "/Amanksingh16/collab_FE/service-worker.js",
+    "static/css/main.bb188fb2.chunk.css.map": "/Amanksingh16/collab_FE/static/css/main.bb188fb2.chunk.css.map",
+    "static/js/2.6a7970c9.chunk.js.LICENSE.txt": "/Amanksingh16/collab_FE/static/js/2.6a7970c9.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.min.css": "/Amanksingh16/collab_FE/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f9aa1a1.js",
+    "static/js/2.6a7970c9.chunk.js",
+    "static/css/main.bb188fb2.chunk.css",
+    "static/js/main.cce65034.chunk.js"
+  ]
+}
